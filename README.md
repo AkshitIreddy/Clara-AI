@@ -4,7 +4,7 @@ Embarking on a new project is always exciting, but this one had me buzzing with 
 
 Check out the video demo below to see my bot in action.
 
-https://user-images.githubusercontent.com/90443032/222329769-ace61720-f052-4e55-89c2-e150ca608791.mp4
+https://user-images.githubusercontent.com/90443032/222946600-5a9b3908-e481-4beb-a03b-5a38e12e81c4.mp4
 
 
 Check out this article where i explain the intuition behind the code, 
