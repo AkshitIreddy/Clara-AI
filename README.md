@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/90443032/222946600-5a9b3908-e481-4beb-
 
 Check out this article where i explain the intuition behind the code, 
 
-https://medium.com/@akshit.r.ireddy/
+https://medium.com/@akshit.r.ireddy/create-your-own-bing-ai-chatbot-3ad3c58d1a98
 
 The latest code changes haven't been pushed yet. I'll do that as soon as possible.
 
